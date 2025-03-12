@@ -26,6 +26,6 @@ public class MainAppTest {
 
     @Test
     public void testWithNegative() {
-        assertEquals(-14, map.addition(-2, -2));
+        assertEquals(-4, map.addition(-2, -2));
     }
 }
